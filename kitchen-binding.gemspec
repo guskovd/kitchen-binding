@@ -16,6 +16,6 @@ Gem::Specification.new do |gem|
   gem.executables   = []
   gem.require_paths = ['lib']
 
-  gem.add_dependency 'test-kitchen', '~> 1.3.1'
+  gem.add_dependency 'test-kitchen', '~> 1.4.2'
   gem.add_dependency 'pry-remote', '~> 0.1.8'
 end
